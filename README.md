@@ -56,7 +56,46 @@ CodeNexus bridges the gap between **learners** and **educators**, offering:
 ## 🗄️ Database
 - MySQL *(For user and content data storage)*  
 
+## Project Preview
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChandrakantShelke/CodeNexus-Your-Ultimate-Programming-HUB-/main/Screenshot%202025-06-10%20125157.png" alt="Screenshot 125157" width="45%">
+  <img src="https://raw.githubusercontent.com/ChandrakantShelke/CodeNexus-Your-Ultimate-Programming-HUB-/main/Screenshot%202025-06-10%20125227.png" alt="Screenshot 125227" width="45%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChandrakantShelke/CodeNexus-Your-Ultimate-Programming-HUB-/main/Screenshot%202025-06-10%20125249.png" alt="Screenshot 125249" width="45%">
+  <img src="https://raw.githubusercontent.com/ChandrakantShelke/CodeNexus-Your-Ultimate-Programming-HUB-/main/Screenshot%202025-06-10%20125351.png" alt="Screenshot 125351" width="45%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChandrakantShelke/CodeNexus-Your-Ultimate-Programming-HUB-/main/Screenshot%202025-06-10%20125422.png" alt="Screenshot 125422" width="45%">
+  <img src="https://raw.githubusercontent.com/ChandrakantShelke/CodeNexus-Your-Ultimate-Programming-HUB-/main/Screenshot%202025-06-10%20125454.png" alt="Screenshot 125454" width="45%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChandrakantShelke/CodeNexus-Your-Ultimate-Programming-HUB-/main/Screenshot%202025-06-10%20125545.png" alt="Screenshot 125545" width="45%">
+  <img src="https://raw.githubusercontent.com/ChandrakantShelke/CodeNexus-Your-Ultimate-Programming-HUB-/main/Screenshot%202025-06-10%20135134.png" alt="Screenshot 135134" width="45%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChandrakantShelke/CodeNexus-Your-Ultimate-Programming-HUB-/main/Screenshot%202025-06-10%20135343.png" alt="Screenshot 135343" width="45%">
+  <img src="https://raw.githubusercontent.com/ChandrakantShelke/CodeNexus-Your-Ultimate-Programming-HUB-/main/Screenshot%202025-06-10%20135432.png" alt="Screenshot 135432" width="45%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChandrakantShelke/CodeNexus-Your-Ultimate-Programming-HUB-/main/Screenshot%202025-06-10%20135529.png" alt="Screenshot 135529" width="45%">
+  <img src="https://raw.githubusercontent.com/ChandrakantShelke/CodeNexus-Your-Ultimate-Programming-HUB-/main/Screenshot%202025-06-10%20140405.png" alt="Screenshot 140405" width="45%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChandrakantShelke/CodeNexus-Your-Ultimate-Programming-HUB-/main/Screenshot%202025-06-10%20141433.png" alt="Screenshot 141433" width="45%">
+  <img src="https://raw.githubusercontent.com/ChandrakantShelke/CodeNexus-Your-Ultimate-Programming-HUB-/main/Screenshot%202025-06-10%20142049.png" alt="Screenshot 142049" width="45%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChandrakantShelke/CodeNexus-Your-Ultimate-Programming-HUB-/main/quize.png" alt="quize" width="45%">
+  <img src="https://raw.githubusercontent.com/ChandrakantShelke/CodeNexus-Your-Ultimate-Programming-HUB-/main/student.png" alt="student" width="45%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChandrakantShelke/CodeNexus-Your-Ultimate-Programming-HUB-/main/student_1.png" alt="student_1" width="45%">
+  <img src="https://raw.githubusercontent.com/ChandrakantShelke/CodeNexus-Your-Ultimate-Programming-HUB-/main/student_2.png" alt="student_2" width="45%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChandrakantShelke/CodeNexus-Your-Ultimate-Programming-HUB-/main/student_3.png" alt="student_3" width="45%">
+</p>
 
 
